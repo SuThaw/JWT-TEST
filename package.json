@@ -1,0 +1,8 @@
+{
+  "name": "JWT",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "jwt-simple": "^0.3.0"
+  }
+}
